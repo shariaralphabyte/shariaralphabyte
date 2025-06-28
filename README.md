@@ -6,7 +6,7 @@
 - 👀 I’m interested in **Mobile App Development, Flutter, and Android (Java)**  
 - 🌱 I’m currently learning **State Management (BLoC, Riverpod), Firebase, and Flutter Clean Architecture**  
 - 💞️ I’m looking to collaborate on **exciting Flutter projects or Native Android apps**  
-- 📫 How to reach me: **[shariaralphabyte@example.com](mailto:shariaralphabyte@example.com)**  
+- 📫 How to reach me: **[shariaralphabyte@example.com](mailto:contact.shariar.cse@gmail.com)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love exploring new technologies and integrating them into my projects to solve real-world problems!**  
 
