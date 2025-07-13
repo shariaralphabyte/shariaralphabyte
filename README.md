@@ -40,9 +40,8 @@
 ### 🌍 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/shariaralphabyte" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariaralphabyte" /></a>
-<a href="https://twitter.com/shariaralphabyte" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="shariaralphabyte" /></a>
-<a href="https://youtube.com/c/shariaralphabyte" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="shariaralphabyte" /></a>
+<a href="https://linkedin.com/in/shariar99" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariaralphabyte" /></a>
+<a href="https://youtube.com/c/codeprobro" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="shariaralphabyte" /></a>
 </p>
 
 ---
