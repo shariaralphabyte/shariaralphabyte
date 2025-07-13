@@ -15,8 +15,13 @@
 ### 🛠 Tech Stack
 
 - **Languages**:  
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - **Frameworks & Libraries**:  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
@@ -60,11 +65,24 @@
 
 ### 🚀 Projects:
 
-- [📱 Flutter E-commerce App](https://github.com/shariaralphabyte/flutter-ecommerce-app)  
-  A complete e-commerce solution built with Flutter, Firebase, and Provider for state management.
 
-- [🎯 Driving School App](https://github.com/shariaralphabyte/driving-school-app)  
-  A driving school management system for booking, payment integration, and push notifications.
+#### 🔐 [Screen Secure (Flutter Plugin)](https://github.com/shariaralphabyte/screen_secure)
+A powerful Flutter plugin that adds comprehensive screen security including **screenshot blocking** and **screen recording prevention** for both Android and iOS platforms.
+
+#### 🏦 [MiniBankGo – Banking API](https://github.com/shariaralphabyte/minibank-go.git)
+A robust **banking API** built with **Go**, supporting secure user authentication, transactions, KYC verification, and account management—ideal for fintech projects.
+
+#### 🍃 [Break Time – macOS App](https://github.com/shariaralphabyte/Break-Time-Mac-Os.git)
+A lightweight macOS menu bar app that reminds users to take regular breaks, helping improve productivity and reduce screen fatigue.
+
+#### 🎥 [Secure Video Streaming API](https://github.com/shariaralphabyte/Secure-Video-Streaming-API.git)
+A secure streaming backend built in **Golang** offering **encrypted video storage** and **token-protected playback** for video-based platforms.
+
+#### 🧩 [Microservices Demo with NATS](https://github.com/shariaralphabyte/MicroServices.git)
+A practical microservices example demonstrating **event-driven communication** using **NATS**, with **database-per-service** and **eventual consistency** patterns.
+
+#### 🔐 [Go Auth Backend](https://github.com/shariaralphabyte/Auth_Backend_Using_Go.git)
+A secure and scalable **authentication system** built with **Go**, tailored for fintech-grade applications. Implements JWT, refresh tokens, and account verification with enterprise-level security.
 
 ---
 
