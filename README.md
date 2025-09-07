@@ -1,6 +1,8 @@
 # 👋 Shariar Hossain
 ### Senior Mobile Application Developer | Flutter & Android Expert
-![Purple and Navy Blue Animated Background and Neon Typography Twitch Offline Banner (2)](https://github.com/user-attachments/assets/6daf9ed9-e332-4a8f-ab84-e5be751393be)
+
+![Purple and Navy Blue Animated Background and Neon Typography Twitch Offline_20250907_124450_0001](https://github.com/user-attachments/assets/03e5916a-fca9-46d6-9a39-6227646eff74)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+%7C+Flutter+Expert;Android+%7C+Go+Backend+Developer;Building+Scalable+Mobile+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
